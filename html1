@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Aara's Webpage</title>
+<link rel="stylesheet" type="text/css" href="aara.css">
+</head>
+	<body>
+		<center><img src = "logo.jpg" width="220px" /></center>
+			<div id = "name">
+				<h1 align = "left"> &nbsp; &nbsp; &nbsp; A &nbsp; A &nbsp; R &nbsp; A &nbsp; - &nbsp; J &nbsp; A &nbsp; H &nbsp; A &nbsp; A &nbsp; N &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; H &nbsp;O &nbsp; L &nbsp; T &nbsp; Z &nbsp; C &nbsp; L &nbsp; A &nbsp; W &nbsp;</h1>
+			</div>
+				 <div class="nav">
+      				<ul>
+						<li><a href="Index.html">HOME</a></li>     
+						<li><a href="resume.html">ABOUT</a></li>
+						<li><a href="worksamples.html">WORK&nbsp;SAMPLES</a></li>
+                		<li><a href="experience.html">CONTACT</a></li>
+      				</ul>
+ 				 </div>	
+ 			<div id = "white">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ 			</div>
+
+ 				<img src="">
+					<div id = "about">
+						<center><img src="camo.png">
+						<img src="table.jpg"> <img src="spotify.png"></center>
+					</div>
+						<div id = "quote">
+							<center><h2>"Without freedom of expression, good taste means nothing."</h2>
+								<p>- Neil Young</p>
+						</div>
+
+	</body>
+</html>
